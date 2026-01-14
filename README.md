@@ -6,6 +6,8 @@
 
 ---
 
+## Tech I use
+
 <div align="center">
   <!-- Operating Systems -->
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
