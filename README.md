@@ -1,37 +1,65 @@
-# Hey there :wave:
+<h1 align="center">Hey there :wave:</h1>
 
-<img src="https://raw.githubusercontent.com/david-star-git/david-star-git/master/resources/banner.png" alt="Hello world">
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/david-star-git/count.svg" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/david-star-git/david-star-git/master/resources/banner.png" alt="Hello world">
 </p>
+
+---
+
+<div align="center">
+  <!-- Operating Systems -->
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arch" height="60" alt="arch logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nix" height="60" alt="nix logo" />
+  <img width="12" />
+
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=lua" height="60" alt="lua logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
+  <img width="12" />
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="60" alt="neovim logo" />
+  <img width="12" />
+
+  <!-- Hardware / Embedded -->
+  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="60" alt="raspberry pi logo" />
+</div>
+
+---
 
 ## About me
 
-I'm David, a coding enthusiast who's relatively new to the world of programming. I have a deep passion for gaming and a love for all things Linux. Beyond my coding journey, I'm also a proud member of the PYT-Academy, where I continue to learn and grow in the vast realm of technology. 🎮🐧
+Hey, I’m David.
 
-## Things I am passionate about
+I like Linux, open source, and games. I build things, break them, and try to understand how they work. Most of what’s here are personal projects, experiments, or unfinished ideas; not products, not a company, just me.
 
-- Linux 🐧
-- Open source 🐙
-- Gaming 🎮
+If something’s broken, feel free to fork it and fix it.  
+Bug reports are fine. Complaining isn’t. If you're here to whine, try Amazon. Otherwise, enjoy the ride.
 
-## Get in touch :coffee:
+Thanks for stopping by. Explore, fork, and leave your mark.
 
-- [discord](https://discordapp.com/users/377185902998323203).
+--- 
 
-<!--
-**david-star-git/david-star-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Socials
 
-Here are some ideas to get you started:
+  <a href="https://discordapp.com/users/377185902998323203" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://www.instagram.com/davinci_macciato/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
