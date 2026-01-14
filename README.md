@@ -1,7 +1,7 @@
-<h1 align="center">Hey there :wave:</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=8,13,24,30&text=David&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/david-star-git/david-star-git/master/resources/banner.png" alt="Hello world">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=8AB4F8&center=true&vCenter=true&width=650&lines=Good%20code%20is%20its%20own%20best%20documentation" alt="Typing introduction" />
 </p>
 
 ---
